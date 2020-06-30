@@ -1,4 +1,4 @@
-# A-Tower-Defense-Game
+# A Tower Defense Game
 Simple prototype for A*. 
 Made by 3 programmers. 
 Use S so generate enemies. 
